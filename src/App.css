@@ -1,0 +1,15 @@
+* {
+  background: #F5F5F5;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: rgb(87, 85, 85);
+}
+
+h1 {
+  text-align: center;
+  color: rgb(40, 123, 247);
+}
+
+ul,
+h4 {
+  margin: 0;
+}
