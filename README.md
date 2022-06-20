@@ -1,3 +1,5 @@
+## [Link for deployment project](https://burulai-narzieva.github.io/mindbox/)
+
 ![Delivery website](/preview.png)
 
 # TodoList with React, Redux and TypeScript
