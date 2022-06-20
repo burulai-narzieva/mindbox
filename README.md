@@ -1,4 +1,4 @@
-![Delivery website](/preview.png)
+![Delivery website](preview.png)
 
 # TodoList with React, Redux and TypeScript
 
